@@ -1,0 +1,213 @@
+body{
+    background-color: #2E4752;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #75B7D1;
+    text-shadow: 10 10 10px;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+
+.div_foto_1{
+    padding: 10px;
+    text-align: center;
+    height: 500px;
+
+}
+
+.minha_div_1{
+    background-color: #464E52;
+}
+
+.minha_div_3{
+    width: auto;
+    background-color: rgba(0, 0, 0, 0.555);
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: bolder;
+    height: 54px;
+}
+
+.citacao{
+    color: #75B7D1;
+}
+
+.autor{
+    color: #75B7D1;
+}
+
+.div_main{
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    width: 600px;
+    height: 20px;
+    background-color: #464E52;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.div_contato{
+    width: 80px;
+    margin: auto;
+    display: inline-flex;
+
+}
+
+.div_interesses{
+    width: 80px;
+    margin: auto;
+    display: inline-flex;
+}
+
+.div_sobre{
+    width: 87px;
+    margin: auto;
+    display: inline-flex;
+}
+
+a{
+    color: white;
+    background-color: #2E4752;
+    text-decoration: none;
+    border-radius: 7px;
+    margin: auto;
+}
+
+a:hover{
+    color: #2E4752;
+    background-color: white;
+}
+
+.div_foto_1{
+    border-radius: 100px;
+}
+
+.principal{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+.foto_aula{
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.paragrafo_interesses_1{
+    background-color: white;
+    color: black;
+    text-indent: 5%;
+    text-justify: auto;
+    font-size: 22px;
+}
+
+.principal_2{
+    padding: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: end;
+    height: 469px;
+}
+
+.foto_sushi{
+    border-radius: 20px;
+    padding: 10px;
+    width: 390px;
+    height: 600px;
+}
+
+.paragrafo_interesses_2{
+    background-color: white;
+    color: black;
+    text-indent: 5%;
+    text-justify: auto;
+    font-size: 22px;
+}
+
+.retorno{
+    text-align: center;
+}
+.foto_retorno{
+    width: 25px;
+    height: 25px;
+}
+
+.paragrafo_interesses_3{
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    background-color: #464E52;
+    color: #75B7D1;
+}
+
+span{
+    font-weight: bold;
+}
+
+.titulo{
+    background-color: #464E52;
+}
+
+.paragrafo_volta{
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    background-color: #464E52;
+    color: #75B7D1;
+}
+
+.paragrafo_1{
+    background-color: white;
+    color: black;
+    text-indent: 5%;
+    text-justify: auto;
+    text-align: center; 
+    font-size: 22px;
+}
+
+.paragrafo_2{
+    background-color: white;
+    color: black;
+    text-indent: 5%;
+    text-justify: auto;
+    text-align: center; 
+    font-size: 22px;
+}
+
+.titulo_2{
+    background-color: #464E52;
+}
+
+.titulo_3{
+    background-color: #464E52;
+}
+
+.paragrafo_3{
+    background-color: white;
+    color: black;
+    text-indent: 5%;
+    text-justify: auto;
+    text-align: center; 
+    font-size: 22px;
+}
+
+.titulo_contato{
+    background-color: #464E52;
+}
+
+.formulario{
+    text-align: center;
+    font-weight: bold;
+}
